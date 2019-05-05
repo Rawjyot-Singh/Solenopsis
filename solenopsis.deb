@@ -1,0 +1,11 @@
+Package: solenopsis
+Version: 1.2-125
+Section: base
+Priority: optional
+Architecture: all
+Depends: python, python-setuptools, openjdk-8-jdk
+Maintainer: Scot P. Floess <flossware@gmail.com>
+Description: Solenopsis
+ A set of scripts to help aid in Salesforce.com
+ development and deployment.
+
